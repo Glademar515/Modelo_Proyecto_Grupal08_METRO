@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.exe.config
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.exe
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.pdb
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.exe
+C:\Users\USER\source\repos\Modelo_Proyecto_Grupal\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.pdb
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.exe.config
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.exe
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\bin\Debug\Modelo_Proyecto_Grupal.pdb
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.exe
+C:\Users\USER\Downloads\Sistema_Autocobro_Metro_Grupo8-main\Sistema_Autocobro_Metro_Grupo8-main\Modelo_Proyecto_Grupal\obj\Debug\Modelo_Proyecto_Grupal.pdb
